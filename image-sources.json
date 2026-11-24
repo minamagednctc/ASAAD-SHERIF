@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "id": "p05",
+      "url": "https://maryamisland.ae/wp-content/uploads/2024/05/maryam-island-rehan-residence-factsheetENG.pdf",
+      "bytes": 6746363
+    },
+    {
+      "id": "p11",
+      "url": "https://maryamisland.ae/wp-content/uploads/2024/11/Gem-Residences-Factsheet.pdf",
+      "bytes": 626557
+    },
+    {
+      "id": "p13",
+      "url": "https://maryamisland.ae/wp-content/uploads/2024/05/maryam-island-mesk-residence-factsheet.pdf",
+      "bytes": 5245772
+    },
+    {
+      "id": "taamir",
+      "url": "https://taamirline.ae/wp-content/uploads/2025/10/TAAMIR.pdf",
+      "bytes": 88507920
+    },
+    {
+      "id": "p07",
+      "url": "https://gulf-eternit.com/wp-content/uploads/2019/02/ADISC-Residential-Leisure-Commercial-1.png",
+      "bytes": 649467
+    },
+    {
+      "id": "p09",
+      "url": "https://nshama.ae/wp-content/uploads/2025/06/CAMDEN-Banner.jpg",
+      "bytes": 366276
+    },
+    {
+      "id": "p10",
+      "url": "https://nshama.ae/wp-content/uploads/2025/05/ALTON-G4.jpg",
+      "bytes": 1598806
+    },
+    {
+      "id": "p08",
+      "url": "https://nshama.ae/wp-content/uploads/2025/03/ODESSA-Gallery-2.jpg",
+      "bytes": 426397
+    },
+    {
+      "id": "p14",
+      "url": "https://okmefbgrrynxhdopdtig.supabase.co/storage/v1/object/public/project-images/gdrfa.jpg",
+      "bytes": 72475
+    },
+    {
+      "id": "p03",
+      "url": "https://preprod.damacproperties.com/en/projects/damac-islands/",
+      "image": "developer render"
+    },
+    {
+      "id": "p04",
+      "video": "AUGUST2 2023 1080P",
+      "seconds": 8.7
+    },
+    {
+      "id": "p06",
+      "video": "NationalContracting.mp4",
+      "seconds": 428.46
+    }
+  ],
+  "pending": [
+    "p02: 498 Villas Ajman",
+    "p12: Muzairah School Sharjah"
+  ],
+  "media_frames_seconds": {
+    "m01": 30,
+    "m02": 0.5,
+    "m03": 167.03,
+    "m04": 20.29,
+    "m05": 6.34
+  },
+  "removed_by_request": [
+    "p01: 818 Villas image removed"
+  ]
+}
